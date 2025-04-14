@@ -1,0 +1,6 @@
+{
+  "name": "Example Token",
+  "Symbol": "EXAMP",
+  "description": "Example token for solana bootcamp token-command-line project.",
+  "image": "https://raw.githubusercontent.com/kakaijiro/bookings-single-page/main/public/logo-dark.png"
+}
