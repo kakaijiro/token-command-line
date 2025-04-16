@@ -80,7 +80,7 @@ spl-token mint <token account> <amount>
 To transfer some Token:
 
 ```
-spl-token transfer <token account> <amount> <ecipient account> --url devnet --fund-recipient
+spl-token transfer <token account> <amount> <recipient account> --url devnet --fund-recipient
 ```
 
 [^1]: [https://solana.com/ja/developers/guides/token-extensions/getting-started](https://solana.com/ja/developers/guides/token-extensions/getting-started)
