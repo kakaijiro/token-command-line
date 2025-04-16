@@ -3,7 +3,7 @@
 To install solana-cli:
 
 ```
-sh -c "$(curl -sSfL https://release.anza.xyz/v2.23/install)"
+sh -c "$(curl -sSfL https://release.anza.xyz/v2.2.3/install)"
 ```
 
 ## 1. create a mint authority account
