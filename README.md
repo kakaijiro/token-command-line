@@ -16,7 +16,7 @@ solana config set --keypair <mint auth account>.json
 solana config set --url devnet
 ```
 
-> [NOTE]
+> [!NOTE]
 > the newly-created account nees some SOL balance.
 
 ## 2. create a token account
@@ -35,7 +35,7 @@ To create a SPL-Token:
 spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb  --enable-metadata <token account>.json
 ```
 
-> [NOTE]
+> [!NOTE]
 > TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb is the Token Extensions program's programID.
 
 ## 4. create a Token-associated account
