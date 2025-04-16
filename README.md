@@ -36,7 +36,7 @@ spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb 
 ```
 
 > [!NOTE]
-> TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb is the Token Extensions program's programID.[^1]
+> TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb is the Token Extensions program's programID[^1].
 
 ## 4. create a Token-associated account
 
@@ -83,4 +83,4 @@ To transfer some Token:
 spl-token transfer <token account> <amount> <ecipient account> --url devnet --fund-recipient
 ```
 
-[^1] [https://solana.com/ja/developers/guides/token-extensions/getting-started](https://solana.com/ja/developers/guides/token-extensions/getting-started)
+[^1]: [https://solana.com/ja/developers/guides/token-extensions/getting-started](https://solana.com/ja/developers/guides/token-extensions/getting-started)
