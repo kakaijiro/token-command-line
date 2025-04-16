@@ -17,7 +17,7 @@ solana config set --url devnet
 ```
 
 > [!NOTE]
-> the newly-created account nees some SOL balance.
+> the newly-created account needs some SOL balance.
 
 ## 2. create a token account
 
