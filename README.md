@@ -36,7 +36,7 @@ spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb 
 ```
 
 > [!NOTE]
-> TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb is the Token Extensions program's programID.
+> TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb is the Token Extensions program's programID.[^1]
 
 ## 4. create a Token-associated account
 
@@ -54,7 +54,7 @@ To initialize metadata:
 spl-token initialize-metadata <token account> <TOKEN_NAME> <TOKEN_SYMBOL> <TOKEN_URI>
 ```
 
-TOKEN_URL refers to metadata.json file that contains metadata.
+TOKEN_URI refers to metadata.json file that contains metadata, like as follows.
 
 ```
 {
@@ -82,3 +82,5 @@ To transfer some Token:
 ```
 spl-token transfer <token account> <amount> <ecipient account> --url devnet --fund-recipient
 ```
+
+[^1] [https://solana.com/ja/developers/guides/token-extensions/getting-started](https://solana.com/ja/developers/guides/token-extensions/getting-started)
