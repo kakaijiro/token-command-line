@@ -65,7 +65,7 @@ TOKEN_URI refers to metadata.json file that contains metadata, like as follows.
 }
 ```
 
-![Screenshot of solana explorer showing the custom Token](https://raw.githubusercontent.com/kakaijiro/token-command-line/main/explorer.png)
+![Screenshot of solana explorer showing the custom Token](https://raw.githubusercontent.com/kakaijiro/token-command-line/main/explorer.png)[^2]
 
 ## 6. generate Token
 
@@ -84,3 +84,4 @@ spl-token transfer <token account> <amount> <recipient account> --url devnet --f
 ```
 
 [^1]: [https://solana.com/ja/developers/guides/token-extensions/getting-started](https://solana.com/ja/developers/guides/token-extensions/getting-started)
+[^2]: [https://explorer.solana.com/address/mntgX4or8vHWmTfBaxSdEVXPETEW8WwcGZT77sRhEW1?cluster=devnet](https://explorer.solana.com/address/mntgX4or8vHWmTfBaxSdEVXPETEW8WwcGZT77sRhEW1?cluster=devnet)
